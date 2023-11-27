@@ -1,0 +1,14 @@
+2023/11/26-14:48:24.142 6aa8 Recovering log #201
+2023/11/26-14:48:24.144 6aa8 Level-0 table #203: started
+2023/11/26-14:48:24.146 6aa8 Level-0 table #203: 5313 bytes OK
+2023/11/26-14:48:24.146 6aa8 Delete type=0 #201
+2023/11/26-14:48:24.146 6aa8 Delete type=3 #199
+2023/11/26-14:48:24.151 54bc Compacting 4@0 + 1@1 files
+2023/11/26-14:48:24.161 54bc Generated table #205@0: 902 keys, 167840 bytes
+2023/11/26-14:48:24.161 54bc Compacted 4@0 + 1@1 files => 167840 bytes
+2023/11/26-14:48:24.161 54bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/26-14:48:24.161 54bc Delete type=2 #192
+2023/11/26-14:48:24.161 54bc Delete type=2 #194
+2023/11/26-14:48:24.161 54bc Delete type=2 #197
+2023/11/26-14:48:24.161 54bc Delete type=2 #200
+2023/11/26-14:48:24.166 54bc Delete type=2 #203
